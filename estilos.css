@@ -1,0 +1,8 @@
+body{
+    background-color: aquamarine;
+}
+.pantalla{
+    background-color: green;
+    border: 5px;
+    border-color: aqua;
+}
